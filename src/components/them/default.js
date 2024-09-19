@@ -1,0 +1,15 @@
+export const defaultTheme = {
+  colorBlackForText: "#333333",
+  colorWhite: "#ffffff",
+  colorForHeroBG: "#D8ECFE",
+  colorForBuyPageBG: "#F6F6F6",
+  colorForFeaturesGoodBG: "#E1EDCE",
+  colorForFeatureBadBG: "#F8DDD7",
+  colorForFeatureIconGood: "#88AA4D",
+  colorForFeatureIconBad: "#F75531",
+  ButtonColor: "#FC9B27",
+  ButtonColorHover: "#FC7427",
+  fontFamily: '"Inter", "Arial", sans-serif',
+  fontSizeDefault: "18px",
+  pageWidth: "1280px",
+};
